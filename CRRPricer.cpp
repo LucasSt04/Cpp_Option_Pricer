@@ -85,7 +85,6 @@ void CRRPricer::compute() { //Fills the H tree with the option prices
                 }
             }
         }
-    _H.display();
     }
 }
     

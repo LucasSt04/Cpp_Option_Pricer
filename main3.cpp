@@ -8,7 +8,7 @@
 #include "AmericanPutOption.h"
 #include "CRRPricer.h"
 
-// ./main3
+// ./main
 //g++ main3.cpp BinaryTree.cpp Option.cpp AmericanOption.cpp AmericanCallOption.cpp AmericanPutOption.cpp AsianOption.cpp AsianCallOption.cpp AsianPutOption.cpp BinaryTree.cpp BlackScholesPricer.cpp BlackScholesMCPricer.cpp CRRPricer.cpp EuropeanVanillaOption.cpp CallOption.cpp PutOption.cpp EuropeanDigitalOption.cpp EuropeanDigitalCallOption.cpp EuropeanDigitalPutOption.cpp singleton_MT.cpp -o main.exe
 
 
